@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HelloWolrd/HelloWolrd.vcxproj" Id="833bcebe-fdb4-4b02-a093-e8ff389ca8d9" />
+</Solution>
