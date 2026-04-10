@@ -1,0 +1,8 @@
+.vs/
+*.VC.db
+*.suo
+*.user
+Debug/
+Release/
+x64/
+x86/
